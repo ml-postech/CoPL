@@ -1,10 +1,10 @@
-# CoPL: Collaborative Preference Learning
+#[EMNLP 2025] CoPL: Collaborative Preference Learning
 
 This repository contains the official implementation of the paper:
 
 **CoPL: Collaborative Preference Learning for Personalizing LLMs**  
 Youngbin Choi, Seunghyuk Cho, Minjong Lee, MoonJeong Park, Yesong Ko, Jungseul Ok, Dongwoo Kim  
-*arXiv preprint, 2025*
+*EMNLP, 2025*
 
 **Paper**: [arXiv:2503.01658](https://arxiv.org/abs/2503.01658)
 
@@ -152,11 +152,13 @@ Our implementation is inspired by and builds upon the following works:
 If you find this work useful for your research, please cite our paper:
 
 ```bibtex
-@article{choi2025copl,
-  title={CoPL: Collaborative Preference Learning for Personalizing LLMs},
-  author={Choi, Youngbin and Cho, Seunghyuk and Lee, Minjong and Park, MoonJeong and Ko, Yesong and Ok, Jungseul and Kim, Dongwoo},
-  journal={arXiv preprint arXiv:2503.01658},
-  year={2025}
+@inproceedings{
+choi2025copl,
+title={CoPL: Collaborative Preference Learning for Personalizing LLMs},
+author={Youngbin Choi and Seunghyuk Cho and Minjong Lee and MoonJeong Park and Yesong Ko and Jungseul Ok and Dongwoo Kim},
+booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
+year={2025},
+url={https://arxiv.org/abs/2503.01658}
 }
 ```
 
