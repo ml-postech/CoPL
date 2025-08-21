@@ -1,4 +1,4 @@
-#[EMNLP 2025] CoPL: Collaborative Preference Learning
+# [EMNLP 2025] CoPL: Collaborative Preference Learning
 
 This repository contains the official implementation of the paper:
 
